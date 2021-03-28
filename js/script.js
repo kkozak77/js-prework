@@ -1,5 +1,4 @@
-let name = 'Krzysztof';
-let surname = 'Kozak'
+kod ='Uwielbiam JavaScript'
 
-console.log(name, surname);
+console.log(kod);
 
