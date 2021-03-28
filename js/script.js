@@ -1,11 +1,12 @@
-let number = 12;
+let firstNumber = 3;
 
+let secondNumber = 4;
 
+function sum(num1, num2) {
 
-if(number>10){
-    console.log("Podana liczba jest większa od 10");
-} else if(number<10){
-    console.log("Podana liczba nie jest większa od 10");
+    let result = num1 + num2;
+
+    return result;
+
 }
-
-
+console.log(sum(3, 4));
