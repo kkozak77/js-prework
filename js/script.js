@@ -1,5 +1,8 @@
-let txt ='Tablica'
-let array = [1, 2, 3, 4]
+let nr = 1;
+let nr1 = 2;
+let nr2 = 3;
 
-console.log(txt, array);
+let array = [nr, nr1, nr2]
+
+console.log(array);
 
