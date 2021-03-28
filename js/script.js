@@ -1,5 +1,5 @@
 let name = 'Krzysztof';
-surname = 'Kozak'
+let surname = 'Kozak'
 
 console.log(name, surname);
 
