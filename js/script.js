@@ -1,4 +1,4 @@
-let myParagrah = document.querySelector('p');
-myParagrah.textContent = 'Mój Paragraf';
-
-console.log(myParagrah);
+let button = document.querySelector('button');
+button.onclick = function() {
+    alert ('Klik działa!')
+}
