@@ -1,4 +1,4 @@
-let button = document.querySelector('button');
-button.onclick = function() {
-    alert ('Klik działa!')
-}
+let txt ='Tablica';
+let array = [1, 2, 3, 4];
+
+console.log(txt, array);
