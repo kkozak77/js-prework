@@ -1,4 +1,3 @@
-let txt ='Tablica';
-let array = [1, 2, 3, 4];
+let kod ='Uwielbiam JavaScript';
 
-console.log(txt, array);
+console.log(kod);
