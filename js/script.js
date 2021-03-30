@@ -1,3 +1,7 @@
-let kod ='Uwielbiam JavaScript';
+let nr = 1;
+let nr1 = 2;
+let nr2 = 3;
 
-console.log(kod);
+let array = [nr, nr1, nr2];
+
+console.log(array);
